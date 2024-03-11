@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'GoogleSansRegular';
+    src: url('../Fonts/GoogleSans-Regular.eot');
+    src: url('../Fonts/GoogleSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/GoogleSans-Regular.woff') format('woff'),
+        url('../Fonts/GoogleSans-Regular.ttf') format('truetype'),
+        url('../Fonts/GoogleSans-Regular.svg#GoogleSans-Regular') format('svg');
+}
+
+@font-face {
+    font-family: 'GoogleSansMedium';
+    src: url('../Fonts/GoogleSans-Medium.eot');
+    src: url('../Fonts/GoogleSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/GoogleSans-Medium.woff') format('woff'),
+        url('../Fonts/GoogleSans-Medium.ttf') format('truetype'),
+        url('../Fonts/GoogleSans-Medium.svg#GoogleSans-Medium') format('svg');
+}
+
+@font-face {
+    font-family: 'GoogleSansItalic';
+    src: url('../Fonts/GoogleSans-Italic.eot');
+    src: url('../Fonts/GoogleSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/GoogleSans-Italic.woff') format('woff'),
+        url('../Fonts/GoogleSans-Italic.ttf') format('truetype'),
+        url('../Fonts/GoogleSans-Italic.svg#GoogleSans-Italic') format('svg');
+}
+
+@font-face {
+    font-family: 'GoogleSansMediumItalic';
+    src: url('../Fonts/GoogleSans-MediumItalic.eot');
+    src: url('../Fonts/GoogleSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/GoogleSans-MediumItalic.woff') format('woff'),
+        url('../Fonts/GoogleSans-MediumItalic.ttf') format('truetype'),
+        url('../Fonts/GoogleSans-MediumItalic.svg#GoogleSans-MediumItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'GoogleSansBoldItalic';
+    src: url('../Fonts/GoogleSans-BoldItalic.eot');
+    src: url('../Fonts/GoogleSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/GoogleSans-BoldItalic.woff') format('woff'),
+        url('../Fonts/GoogleSans-BoldItalic.ttf') format('truetype'),
+        url('../Fonts/GoogleSans-BoldItalic.svg#GoogleSans-BoldItalic') format('svg');
+}
+
+@font-face {
+    font-family: 'GoogleSansBold';
+    src: url('../Fonts/GoogleSans-Bold.eot');
+    src: url('../Fonts/GoogleSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/GoogleSans-Bold.woff') format('woff'),
+        url('../Fonts/GoogleSans-Bold.ttf') format('truetype'),
+        url('../Fonts/GoogleSans-Bold.svg#GoogleSans-Bold') format('svg');
+}
+
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../Fonts/OpenSans-ExtraBold.eot');
+    src: url('../Fonts/OpenSans-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/OpenSans-ExtraBold.woff') format('woff'),
+        url('../Fonts/OpenSans-ExtraBold.ttf') format('truetype'),
+        url('../Fonts/OpenSans-ExtraBold.svg#OpenSans-ExtraBold') format('svg');
+}
+
+/* Icon fonts */
+@font-face {
+    font-family: 'Material Icons';
+    src: url('../Fonts/MaterialIcons-Regular.eot');
+    src: url('../Fonts/MaterialIcons-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/MaterialIcons-Regular.woff2') format('woff2'),
+        url('../Fonts/MaterialIcons-Regular.woff') format('woff'),
+        url('../Fonts/MaterialIcons-Regular.ttf') format('truetype');
+  }
+  
+  .material-icons {
+    font-family: 'Material Icons';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr;
+    -webkit-font-feature-settings: 'liga';
+    -webkit-font-smoothing: antialiased;
+  }

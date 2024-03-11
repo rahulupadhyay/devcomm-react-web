@@ -1,0 +1,35 @@
+.meetingView {
+  width: 100%;
+  margin-top: 12px;
+  padding: 12px;
+  border: 1px solid #8080805e;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.meetingView:hover {
+  box-shadow: 0 0 3px 0px #8080805e;
+  cursor: pointer;
+}
+
+.paper {
+  padding: 16px;
+}
+
+.PENDING {
+  color: "#fff";
+  background-color: gray;
+}
+.MAYBE {
+  color: "#fff";
+  box-shadow: 0 0 3px 0px black;
+  background-color: orange;
+}
+.NO {
+  color: "#fff";
+  background-color: red;
+}
+.YES {
+  color: "#fff";
+  background-color: green;
+}

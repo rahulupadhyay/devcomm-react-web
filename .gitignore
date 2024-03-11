@@ -1,0 +1,15 @@
+node_modules
+firebase-debug.log
+
+# node.js
+#
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+package-lock.json
+/build
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+# Yarn Integrity file
+.yarn-integrity
